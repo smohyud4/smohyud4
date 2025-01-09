@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+
+
+I'm a **Computer Science student** at the University of Tennessee, Knoxville, graduating in May 2026. I'm passionate about **web development**, **game development**, and continuously learning new technologies.
+
+---
+
+## 🌱 Skills & Technologies
+- **Languages:** Typescript, JavaScript, C++, C#
+- **Web Development:** React, Node.js, Express, Next.js, HTML/CSS
+- **Tools & Platforms:** Git, Docker, VS Code
+- **Databases:** PostgreSQL, MongoDB
+
+---
+
+## 📫 Let's Connect!
+- **My Website:** [Personal Website](https://smohyud4.github.io/Portfolio/) 
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/sulaiman-mohyuddin)
+- **Email:** [Email](mailto:smohyud1@vols.utk.edu)
+
 
 <!--
 **smohyud4/smohyud4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

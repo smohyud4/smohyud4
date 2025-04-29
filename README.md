@@ -14,7 +14,6 @@ I'm a **Computer Science student** at the University of Tennessee, Knoxville, gr
 ---
 
 ## 📫 Let's Connect!
-- **My Website:** [Personal Website](https://smohyud4.github.io/Portfolio/) 
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/sulaiman-mohyuddin)
 - **Email:** [Email](mailto:smohyud1@vols.utk.edu)
 

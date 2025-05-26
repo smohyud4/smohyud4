@@ -14,9 +14,8 @@ I'm a **Computer Science student** at the University of Tennessee, Knoxville, gr
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** (https://linkedin.com/in/sulaiman-mohyuddin)
-- **Email:** (mailto:smohyud1@vols.utk.edu)
-- **WCA Profile (for fun):** (https://www.worldcubeassociation.org/persons/2022MOHY01)
+- [LindedIn](https://linkedin.com/in/sulaiman-mohyuddin)
+- [Email](mailto:smohyud1@vols.utk.edu)
 
 
 <!--

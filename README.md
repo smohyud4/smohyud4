@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome 👋
 
 
 I'm a **Computer Science student** at the University of Tennessee, Knoxville, graduating in May 2026. I'm passionate about **web development**, **game development**, and continuously learning new technologies.

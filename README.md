@@ -7,8 +7,8 @@ I'm a **Computer Science student** at the University of Tennessee, Knoxville, gr
 
 ## 🌱 Skills & Technologies
 - **Languages:** Typescript, JavaScript, C++, C#
-- **Web Development:** React, Node.js, Express, Next.js, HTML/CSS
-- **Tools & Platforms:** Git, Docker, VS Code
+- **Web Development:** React, Node.js, Express, Next.js, HTML/CSS, Jest, Redux
+- **Tools & Platforms:** Git, Docker, VS Code, Cursor, MCP
 - **Databases:** PostgreSQL, MongoDB
 
 ---
